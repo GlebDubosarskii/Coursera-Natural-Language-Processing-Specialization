@@ -6,4 +6,4 @@
 
 
 
-I implemented logistic regression for sentiment analysis on tweets. Given a tweet, you will decide if it has a positive sentiment or a negative one.
+I implemented logistic regression for sentiment analysis on tweets. Given a tweet, the algorithm decides if it has a positive sentiment or a negative one.
