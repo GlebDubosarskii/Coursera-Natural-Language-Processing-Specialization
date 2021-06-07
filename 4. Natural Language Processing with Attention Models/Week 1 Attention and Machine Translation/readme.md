@@ -1,4 +1,4 @@
-## Project Transformers and Machine Translation
+## Project Attention and Machine Translation
 
 In this assignment, I built an English-to-German neural machine translation (NMT) model using Long Short-Term Memory (LSTM) networks with attention for translation from English to German. This assignment includes
 
